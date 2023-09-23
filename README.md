@@ -1,9 +1,9 @@
 # Door Lock System Using Pin/Password
-Developed by Dave Russell & Kenneth William N
+Developed by Dave Russell & Kenneth William N  
 This repository is a source code of the system.
 
 ## Prototype
-This repository provides the electrical circuit for you who wanna try to build the device and embedded the code
+This repository provides the electrical circuit for you who wanna try to build the device and embedded the code  
 <img src="D:\Origin Data D\Mata Kuliah\Semester 2\Human Computer Interaction\Door Lock with Pin\circuit.png"/>
 
 ## Installation
